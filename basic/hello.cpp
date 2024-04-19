@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Astha porwal pagal hai";
+    std::cout << "Astha porwal pagal  hai";
     return 0;
 }
